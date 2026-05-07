@@ -1,1 +1,10 @@
-
+{
+  "maintenance": false,
+  "devices": [
+    {
+      "name": "dyyz",
+      "android_id": "bsbs",
+      "expire": 1864484420978
+    }
+  ]
+}
